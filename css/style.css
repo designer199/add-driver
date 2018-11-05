@@ -59,6 +59,7 @@ body {
         transform: translateY(-2px);
     }
     /*FORM*/
+
     .form-control
     {
         width:90%;
@@ -67,6 +68,7 @@ body {
 {
     margin:2% 0 2% 38%;
 }
+
     .form-control:focus,select:focus{
         border-color:#007bff;
         -webkit-box-shadow: none;
@@ -150,6 +152,8 @@ input {
     font-size: 0.9rem;
 }
 
+
+
 .grid-form
     {
         display: grid;
@@ -178,6 +182,7 @@ input {
             grid-gap: 10px;
         
     }
+
     .formCreate__content1
     {
         display:inline;
@@ -186,10 +191,12 @@ input {
     {
         display:inline;
     }
+
     .driverVehicle__img {
         background-color: beige;
         text-align: center;
         padding: 3% 0;
+
         width:95%;
       
        
@@ -218,6 +225,7 @@ input {
     display: inline-block;
     transition: all .2s ease-in-out;
 }
+
     .upload-btn-wrapper input[type=file] {
         position: absolute;
         left: 0;
@@ -228,7 +236,6 @@ input {
     .driverVehicle__img img {
         width: 180px;
         height: 180px;
-      
         border-radius: 50%;
     }
     .custom-file-btn {
@@ -238,6 +245,7 @@ input {
         padding: 4px 10px;
         border-radius: 6px;
         font-size: 13px;
+<<<<<<< HEAD
         cursor: pointer;
         font-weight: bold;
     }
@@ -246,12 +254,14 @@ input {
     {
         width: 85%;
     }
+
     .grid-form
     {
         display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 10px;
     }
+
 
     .grid-item-grid
     {
@@ -265,6 +275,7 @@ input {
         grid-template-columns: 1fr 1fr;
        
     }
+
     .formCreate__input {
  
         width: 20%;
@@ -279,5 +290,6 @@ input {
         grid-template-columns: 1fr;
         grid-gap: 10px;
     }
+
 }
   
