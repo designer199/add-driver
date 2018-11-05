@@ -2,7 +2,7 @@
 [Demo of add driver web page](https://designer199.github.io/add-driver/)
 
 ## Dated : 5th Nov 2018
- - [ ] Add driver page is reponsive/mobile-first
+ - [x] Add driver page is reponsive/mobile-first
 
 
 ## Dated : 3rd Nov 2018
